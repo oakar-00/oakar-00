@@ -4,7 +4,7 @@
 
 💻 - Studying Information Systems (ISTD Pillar)
 
-📈 - Interested in Data Analytics and Deep Learning
+📈 - Interested in Software Development, Data Analytics and Machine Learning/AI. 
 
 📬 - oakkarrr00@gmail.com
 
